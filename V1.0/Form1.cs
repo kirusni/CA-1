@@ -21,11 +21,9 @@ namespace V1._0
         {
             string taskName = txtTask.Text;
             string dueDate = txtDueDate.Text;
-
             // No validation in v1.0
             string taskEntry = taskName + " - Due: " + dueDate;
             listBoxTasks.Items.Add(taskEntry);
-
             // Clear inputs
             txtTask.Clear();
             txtDueDate.Clear();

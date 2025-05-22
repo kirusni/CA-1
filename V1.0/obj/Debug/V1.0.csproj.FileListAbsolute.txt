@@ -7,3 +7,13 @@ E:\UCJ\2025\SCM Exams\03\V1.0\V1.0\obj\Debug\V1._0.Properties.Resources.resource
 E:\UCJ\2025\SCM Exams\03\V1.0\V1.0\obj\Debug\V1.0.csproj.GenerateResource.Cache
 E:\UCJ\2025\SCM Exams\03\V1.0\V1.0\obj\Debug\V1.0.exe
 E:\UCJ\2025\SCM Exams\03\V1.0\V1.0\obj\Debug\V1.0.pdb
+D:\NVQ 6\CA\V1.0\V1.0\bin\Debug\V1.0.exe.config
+D:\NVQ 6\CA\V1.0\V1.0\bin\Debug\V1.0.exe
+D:\NVQ 6\CA\V1.0\V1.0\bin\Debug\V1.0.pdb
+D:\NVQ 6\CA\V1.0\V1.0\obj\Debug\V1.0.csproj.AssemblyReference.cache
+D:\NVQ 6\CA\V1.0\V1.0\obj\Debug\V1._0.Form1.resources
+D:\NVQ 6\CA\V1.0\V1.0\obj\Debug\V1._0.Properties.Resources.resources
+D:\NVQ 6\CA\V1.0\V1.0\obj\Debug\V1.0.csproj.GenerateResource.cache
+D:\NVQ 6\CA\V1.0\V1.0\obj\Debug\V1.0.csproj.CoreCompileInputs.cache
+D:\NVQ 6\CA\V1.0\V1.0\obj\Debug\V1.0.exe
+D:\NVQ 6\CA\V1.0\V1.0\obj\Debug\V1.0.pdb
